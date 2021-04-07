@@ -3,7 +3,7 @@ package lab1;
 import java.util.Scanner;
 
 /**
- * Created by fatima on 23/01/2021.
+ * Created by fatima on 23/01/2021..
  */
 public class ArrayOperation {
 
